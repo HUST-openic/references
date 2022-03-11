@@ -2,7 +2,20 @@
 
 ## 目标阶段和任务计划
 
-## 学习资源
+## 学习资源（IC相关）
+
+- IC EDA领域各种文件格式的作用：[here](http://www.vlsi-expert.com/p/different-file-formats-file-extensions.html)。着重注意以下几个通用的文件类型：
+  - .lib, .db for Synopsys.
+  - .lef, .def for Cadence.
+  - .tf.
+  - .map.
+  - .slib, .sdb for Synopsys.
+  - .mw, outdated. Not planned to support this currently.
+  - .spef, .sbpf for Synopsys.
+  - .v (verilog source file).
+  - .v (gate-level netlist).
+
+可能也是需要创建database来处理和存储这些通用的文件格式，优先支持这些通用的文件格式。
 
 ## 赛事信息
 
