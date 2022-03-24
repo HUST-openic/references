@@ -1,5 +1,9 @@
 # EDA开发和算法设计
 
+总结的很好的EDA汇总：
+
+- [# 入门课程与书籍推荐之“EDA算法”](https://zhuanlan.zhihu.com/p/268633402)
+
 ## 目标阶段和任务计划
 
 ### 阶段一
@@ -45,7 +49,15 @@
   - .v (verilog source file).
   - .v (gate-level netlist).
 
-可能也是需要创建database来处理和存储这些通用的文件格式，优先支持这些通用的文件格式。
+可能也是需要创建database来处理和存储这些通用的文件格式，优先支持这些通用的文件格式，关于这些文件的细节存在于*ref*文件夹下。
+
+## ## IC 基础知识
+
+- [vlsi universe](https://vlsiuniverse.blogspot.com/2014/07/propagation-delay.html)
+
+- [比较难得的视频资源 - 整个IC物理设计EDA总览](https://www.bilibili.com/video/BV1XE411N7Er/?spm_id_from=333.788.recommend_more_video.0)
+
+- [# 数字集成电路静态时序分析基础](https://www.bilibili.com/video/BV1if4y1p7Dq?spm_id_from=333.999.0.0)
 
 ## 赛事信息
 
