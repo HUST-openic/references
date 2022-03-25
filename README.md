@@ -3,6 +3,7 @@
 总结的很好的EDA汇总：
 
 - [# 入门课程与书籍推荐之“EDA算法”](https://zhuanlan.zhihu.com/p/268633402)
+- 查询集成电路的各种相关概念： [VLSI Concepts](http://www.vlsi-expert.com/)
 
 ## 目标阶段和任务计划
 
